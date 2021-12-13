@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilfredKihara.
+- 👋 Hi, I’m @Wilfred-Muriithi.
 - 👀 I’m interested in data analytics and blockchain.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on the hyperledger fabric.
